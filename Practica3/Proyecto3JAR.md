@@ -60,3 +60,11 @@ Una vez hecho esto deberemos crear una clase principal con un método main que u
 Como vemos en la siguiente imagen ya está creada.
 ![](Imagenes%20para%20Markdown/PR3.22.png)
 
+Ahora con el main del mismo empezamos a usar la librería de MZFecha. He hecho el llamamiento del Scanner, luego he definido la primera fecha con F1 y la segunda fecha F2. He ido creando las variables de tipo int para las diferentes fechas.
+![](Imagenes%20para%20Markdown/PR3.23.png)
+
+Luego le digo al usuario que imprima las diferentes fechas y cuando ya están almacenadas las imprimo. luego hago la diferenciación almacenandolo en otra variable tipo int ya que la diferencia devuelve un int. Hago la correspondente llamada para el System.out.println y listo.
+![](Imagenes%20para%20Markdown/PR3.24.png)
+
+Lo ponemos a prueba y sale lo siguiente:
+![](Imagenes%20para%20Markdown/PR3.25.png)
